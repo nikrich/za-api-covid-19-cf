@@ -1,5 +1,5 @@
 name = "api"
 type = "javascript"
-account_id = "f456a7efea126e3206183d4aa228159e"
+account_id = ""
 route = "api.covidvisual.com"
-zone_id = "9df37c86b4eeab26768226f2f7696fc2"
+zone_id = ""
